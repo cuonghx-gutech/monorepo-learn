@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cuonghx-gutech/monorepo-learn/issues"
   },
-  "homepage": "https://github.com/cuonghx-gutech/monorepo-learn#readme"
+  "homepage": "https://github.com/cuonghx-gutech/monorepo-learn#readme",
+  "publishConfig": {
+    "@cuonghx-gutech:registry": "https://npm.pkg.github.com"
+  }
 }
